@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-I am Melih Ekinci, currently doing masters on Artificial Intelligence at Friedrich-Alexander-Universität Erlangen-Nürnberg.\
+I'm Melih.
+
+I’m someone who enjoys moving between different worlds — economics, technology, and people. My path has taken me from analyzing large-scale financial data to designing AI-driven solutions, and what connects it all is a curiosity for how systems work and how they can be improved.
+
+I thrive in international environments, and keep learning as a constant practice. What drives me is the belief that well-applied science/technology can simplify complexity and open space for more meaningful human work.
+\
 Find out more about me & feel free to connect with me here:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ekincimelih/)
